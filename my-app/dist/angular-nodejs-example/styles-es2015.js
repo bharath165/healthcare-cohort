@@ -414,9 +414,9 @@ if (content.locals) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! D:\HealthCareAnalyticsProject\healthcare-analytics-main\my-app\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
-__webpack_require__(/*! D:\HealthCareAnalyticsProject\healthcare-analytics-main\my-app\node_modules\ngx-bootstrap\datepicker\bs-datepicker.css */"./node_modules/ngx-bootstrap/datepicker/bs-datepicker.css");
-module.exports = __webpack_require__(/*! D:\HealthCareAnalyticsProject\healthcare-analytics-main\my-app\src\styles.css */"./src/styles.css");
+__webpack_require__(/*! C:\Users\yrao\OneDrive - Merative\Desktop\ust cohort builder\healthcare\HealthCareAnalytics-20-05-2022-main\my-app\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
+__webpack_require__(/*! C:\Users\yrao\OneDrive - Merative\Desktop\ust cohort builder\healthcare\HealthCareAnalytics-20-05-2022-main\my-app\node_modules\ngx-bootstrap\datepicker\bs-datepicker.css */"./node_modules/ngx-bootstrap/datepicker/bs-datepicker.css");
+module.exports = __webpack_require__(/*! C:\Users\yrao\OneDrive - Merative\Desktop\ust cohort builder\healthcare\HealthCareAnalytics-20-05-2022-main\my-app\src\styles.css */"./src/styles.css");
 
 
 /***/ })
